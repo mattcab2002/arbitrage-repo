@@ -1,8 +1,6 @@
 sportsBooksDict = {
-    '14': 'MyBookie',
-    '37': 'Pinnacle',
-    '139': 'SportsInteraction',
-    '563': 'DraftKings'
+    'sportsbook_id1': 'sportsbook1',
+    'sportsbook_id2': 'sportsbook2',
+    'sportsbook_id3': 'sportsbook3',
+    'sportsbook_id4': 'sportsbook4'
 }
-
-# '123': 'William Hill',
