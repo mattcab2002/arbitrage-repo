@@ -14,7 +14,7 @@ dictOfEvents = {}
 dataList = []
 
 for key in leagueDict.keys():
-    link = ('http://xml.donbest.com/v2/odds/' + key +
+    link = ('http://xml.url/' + key +
             '/?token='+token_auth, leagueSportDict[key])
     sport = link[1]
     league = leagueDict[key]
